@@ -7,7 +7,7 @@ Estou sempre aberto a aprender novas tecnologias e me envolver em novos projetos
 
 ## Habilidades 🎖️
 - **Linguagens:** JavaScript 
-- **Frameworks e Bibliotecas:** Bootstrap, Node.js, AdonisJs
+- **Frameworks e Bibliotecas:** Node.js, AdonisJs
 - **Ferramentas e Tecnologias:** Figma, Banco de Dados
 - **Conhecimentos Básicos:** Python, React Native, Expo, MongoDB
 
