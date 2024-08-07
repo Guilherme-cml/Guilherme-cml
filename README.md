@@ -11,6 +11,9 @@ Estou sempre aberto a aprender novas tecnologias e me envolver em novos projetos
 - **Ferramentas e Tecnologias:** Figma, Banco de Dados
 - **Conhecimentos Básicos:** Python, React Native, Expo, MongoDB
 
+## Meu Portifólio 🧩 
+https://guilherme-cml.github.io/
+
 ## Contato 📞
 - [LinkedIn](https://www.linkedin.com/in/guilhermecaetanolima)
 - [E-mail](gcml1144@gmail.com)
